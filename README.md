@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Anto!
+- 🔭 I’m currently working on my first game in Java.
+- 🌱 I’m currently learning Java programming and sociology.
+- 👯 I’m looking to collaborate on projects that involve beginner code.
+- 🤔 I’m looking for help with Java development.
+- 📫 How to reach me: Drop a note at antonia7petrescu@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a sociology geek and super passionate about health sciences.
